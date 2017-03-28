@@ -51,11 +51,16 @@
 //console.log(result);
 
 
-var skills = ["clever", "self-confident", "experienced", "senior Java developer"];
+var skills = ["Hard-working",
+    "Self-confident",
+    "Experienced, more then 7 year of development",
+    "Different business domains",
+    "Adhere to Java principles",
+    "Team player, comfortably within agile methodology"];
 
 var bio = {
     "name": "Sergiy Tereschenko",
-    "role": "Web Developer",
+    "role": "Java/Web Developer",
     "contacts": {
         mobile: "900-082-516-25-23",
         email: "test@mail.com",

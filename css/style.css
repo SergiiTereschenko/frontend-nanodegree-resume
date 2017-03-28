@@ -141,6 +141,10 @@ a {
   padding: 10px;
 }
 
+.flex-box-2 .flex-item {
+  padding-top: 4px;
+}
+
 .center-content {
   padding: 2.5% 5%;
 }
